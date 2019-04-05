@@ -1,0 +1,57 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr User 16774 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L GBA_EMU-eagle-import:A3L-LOC #FRAME1
+U 1 0 22780281
+P 1000 6950
+F 0 "#FRAME1" H 1000 6950 50  0001 C CNN
+F 1 "www" H 1000 6950 50  0001 C CNN
+F 2 "" H 1000 6950 50  0001 C CNN
+F 3 "" H 1000 6950 50  0001 C CNN
+	1    1000 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L GBA_EMU-eagle-import:SHOULDER_BUTTON S1
+U 1 0 788C9994
+P 8400 1800
+F 0 "S1" H 8450 1850 42  0000 L BNN
+F 1 "SHOULDER_BUTTON" H 8400 1800 50  0001 C CNN
+F 2 "GBA_EMU:SHOULDER_BUTTON" H 8400 1800 50  0001 C CNN
+F 3 "" H 8400 1800 50  0001 C CNN
+	1    8400 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L GBA_EMU-eagle-import:SHOULDER_BUTTON S2
+U 1 0 F9B5905E
+P 8500 1300
+F 0 "S2" H 8550 1350 42  0000 L BNN
+F 1 "SHOULDER_BUTTON" H 8500 1300 50  0001 C CNN
+F 2 "GBA_EMU:SHOULDER_BUTTON" H 8500 1300 50  0001 C CNN
+F 3 "" H 8500 1300 50  0001 C CNN
+	1    8500 1300
+	1    0    0    -1  
+$EndComp
+Text Notes 14550 6350 0    85   ~ 0
+GBA_EMU
+Text Notes 14550 6550 0    85   ~ 0
+MAY 2016
+Text Notes 14550 6150 0    85   ~ 0
+BY RYAN WENDLAND
+Text Notes 15900 6750 0    85   ~ 0
+0
+$EndSCHEMATC
