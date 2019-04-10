@@ -1,8 +1,8 @@
-(module SHOULDER_BUTTON (layer F.Cu) (tedit 0)
-  (fp_text reference S2 (at 0 0) (layer F.SilkS) hide
+(module SHOULDER_BUTTON (layer F.Cu) (tedit 5CACEA26)
+  (fp_text reference S2 (at 0 -2.54) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
-  (fp_text value SHOULDER_BUTTON (at 0 0) (layer F.SilkS) hide
+  (fp_text value Bumper (at 0 -5.08) (layer F.SilkS) hide
     (effects (font (size 1.27 1.27) (thickness 0.15)))
   )
   (fp_line (start -0.635 2.6162) (end 0.635 2.6162) (layer Edge.Cuts) (width 0.05))
@@ -13,8 +13,8 @@
   (fp_arc (start 0.635 -0.5588) (end 0.635 -1.1938) (angle 90) (layer Edge.Cuts) (width 0.05))
   (fp_arc (start -0.635 1.9812) (end -1.27 1.9812) (angle -90) (layer Edge.Cuts) (width 0.05))
   (fp_arc (start 0.635 1.9812) (end 0.635 2.6162) (angle -90) (layer Edge.Cuts) (width 0.05))
-  (pad GND@1 thru_hole circle (at -3.5 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
-  (pad GND@3 thru_hole circle (at 3.5 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
-  (pad GND@2 thru_hole circle (at -2.25 -2.5) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
-  (pad SW thru_hole circle (at 2.25 -2.5) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -3.5 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 3.5 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -2.25 -2.5) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 2.25 -2.5) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
 )
