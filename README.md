@@ -1,6 +1,6 @@
 # GBA RaspberryPi Zero  
 
-##Display:  
+## Display:  
 https://sudomod.com/forum/viewtopic.php?f=22&t=2312  
 https://sudomod.com/forum/viewtopic.php?f=25&t=5614  
 https://sudomod.com/forum/viewtopic.php?f=22&t=5854&p=60773#p60709  
@@ -18,7 +18,7 @@ LED | Pin 12 (GPIO18)
 VCC | Pin 1 (3.3V) 
 GND | Pin 20 (GND) 
 
-##Audio:  
+## Audio:  
 http://www.ti.com/lit/ds/symlink/lm4875.pdf  
 
 
