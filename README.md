@@ -1,3 +1,18 @@
+Display:
+https://sudomod.com/forum/viewtopic.php?f=22&t=2312
+https://sudomod.com/forum/viewtopic.php?f=25&t=5614
+https://sudomod.com/forum/viewtopic.php?f=22&t=5854&p=60773#p60709
+Screen<------------>Raspberry Pi 3 or zero
+SDO(MISO)<----->PIN 21
+SDI(MOSI)<----->Pin 19
+CS<----------------->Pin 24
+SCK<-------------->Pin 23
+DC<--------------->Pin 22
+RESET<----------->Pin 26
+LED<-------------->Pin x (GPIO18)
+GND<------------>Pin 20
+VCC<------------>3.3V
+
 # GBA_Emulator-by-Ryzee119-
 
 This was designed by /u/Ryzee
