@@ -1,10 +1,10 @@
-# GBA RaspberryPi Zero
+# GBA RaspberryPi Zero  
 
-##Display:
-https://sudomod.com/forum/viewtopic.php?f=22&t=2312
-https://sudomod.com/forum/viewtopic.php?f=25&t=5614
-https://sudomod.com/forum/viewtopic.php?f=22&t=5854&p=60773#p60709
-https://learn.adafruit.com/adafruit-2-8-pitft-capacitive-touch/downloads
+##Display:  
+https://sudomod.com/forum/viewtopic.php?f=22&t=2312  
+https://sudomod.com/forum/viewtopic.php?f=25&t=5614  
+https://sudomod.com/forum/viewtopic.php?f=22&t=5854&p=60773#p60709  
+https://learn.adafruit.com/adafruit-2-8-pitft-capacitive-touch/downloads  
 
 Screen | Raspberry Pi 3 or zero 
 ------------ | -------------
@@ -18,11 +18,11 @@ LED | Pin 12 (GPIO18)
 VCC | Pin 1 (3.3V) 
 GND | Pin 20 (GND) 
 
-##Audio:
-http://www.ti.com/lit/ds/symlink/lm4875.pdf
+##Audio:  
+http://www.ti.com/lit/ds/symlink/lm4875.pdf  
 
 
-## Credits:
+## Credits:  
 > This was originally designed by /u/Ryzee
 > Originally posted on Reddit here:
 > https://www.reddit.com/r/DIY/comments/4zbqwr/this_is_my_attempt_at_making_a_portable_emulator/
