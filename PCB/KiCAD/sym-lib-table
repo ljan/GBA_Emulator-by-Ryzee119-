@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name GBA_EMU-eagle-import)(type Legacy)(uri ${KIPRJMOD}/GBA_EMU-eagle-import.lib)(options "")(descr ""))
+  (lib (name GBA_EMU)(type Legacy)(uri ${KIPRJMOD}/GBA_EMU.lib)(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-15677779354975645
+15679339882920490
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44548,6 +44548,13 @@ UL/CSA 6x32mm Ceramic Slow Blow Fuse
 2
 2
 GBA_EMU
+18PIN-0.8MM
+
+
+0
+20
+20
+GBA_EMU
 AB_BUTTON
 
 
@@ -44562,16 +44569,16 @@ D-PAD
 8
 8
 GBA_EMU
-PinHeader_2x20_P2.54mm_Vertical_SMD
-surface-mounted straight pin header, 2x20, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x20 2.54mm double row
+Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
 0
 40
 40
 GBA_EMU
-Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
-Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
-raspberry pi zero through hole
+Samtec_HLE-120-02-XXX-DV-BE-XX-XX
+
+
 0
 40
 40
