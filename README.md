@@ -21,6 +21,9 @@ GND | Pin 20 (GND)
 ## Audio:  
 http://www.ti.com/lit/ds/symlink/lm4875.pdf  
 
+## Power:  
+https://hackaday.io/project/19035-zerophone-a-raspberry-pi-smartphone/log/69596-a-guide-on-powering-pi-zero-directly-from-liion-batteries  
+
 
 ## Credits:  
 > This was originally designed by /u/Ryzee
